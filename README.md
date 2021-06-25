@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelalb (Miguel Acevedo) a Full Stack Python Developer
 - 👀 I’m interested in Web, VueJS, React, Docker, Python, Machine Learning and AI
-- 🌱 I’m currently learning Django, React and all things cloud such as AWS, GCP and Azure
+- 🌱 I’m currently learning Django, React and all things cloud such as AWS
 - 💞️ I’m looking to collaborate on challenging projects where I can make a valuable contribution.
 - 📫 How to reach me ...
   - [LinkedIn](https://www.linkedin.com/in/miguel-acevedo)
