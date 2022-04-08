@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miguelalb (Miguel Acevedo) a Full Stack Developer
+- 👋 Hi, I’m @miguelalb (Miguel Acevedo) a Software Engineer
 - 👀 I’m interested in Python, Web, Machine Learning and AI
 - 🌱 I’m always perfecting my skills. The key is to learn one new thing everyday!
 - ⭐ My goal is to make my code as transparent, efficient, easy to read and easy to understand as possible.
